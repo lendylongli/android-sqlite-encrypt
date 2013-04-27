@@ -1,0 +1,11 @@
+编译环境：
+Android2.2源码
+Ubuntu12.10 64位
+
+1、同步Android2.2源码(大概4G容量)
+2、安装必需的依赖库
+3、在Android2.2源码目录下运行:
+	$. build/envsetup.sh
+	这样就可以初始化环境
+4、去到这个源码目录，运行: $mm
+	这样就可以编译，生成结果在out\target\product\generic\system\lib\libsqlcrypt_jni.so
