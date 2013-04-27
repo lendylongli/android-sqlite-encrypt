@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sqlcrypt Demo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="statement">Sqlcryt必须运行在Android Sdk 7 以上,\n作者:lendylongli@gmail.com\nDB保存路径:/data/data/%%package%%/file/data/</string>
+    <string name="enter_password">输入密码</string>
+    <string name="confirm">确定</string>
+    <string name="open_database">打开数据库</string>
+    <string name="change_passwd_database">更改数据库密码</string>
+    <string name="edit_text_hint">首次运行密码为空!</string>
+    <string name="error_tip1">请先打开数据库!</string>
+    <string name="error_tip2">密码错误!</string>
+</resources>
